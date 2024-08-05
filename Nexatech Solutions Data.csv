@@ -1,0 +1,83 @@
+﻿Product ID,Product Name,Category,Quantity,Unit Price ,Age Group,Marital Status,State,Total Revenue
+P001,Smartphone,Electronics,15,$150.00 ,26-35,Unmarried,New South Wales,"$2,250.00 "
+P002,Laptop,Electronics,10,$200.00 ,18-25,Married,Victoria,"$2,000.00 "
+P003,Headphones,Electronics,6,$149.99 ,36-45,Unmarried,Queensland,$899.94 
+P004,Tablet,Electronics,5,$299.99 ,26-35,Married,Western Australia,"$1,499.95 "
+P005,Smartwatch,Electronics,7,$199.99 ,36-45,Unmarried,South Australia,"$1,399.93 "
+P006,TV,Electronics,3,"$1,199.99 ",46-55,Married,Tasmania,"$3,599.97 "
+P007,Refrigerator,Appliances,4,$499.99 ,36-45,Married,Queensland,"$1,999.96 "
+P008,Washing Machine,Appliances,7,$399.99 ,18-25,Unmarried,New South Wales,"$2,799.93 "
+P009,Blender,Appliances,9,$49.99 ,26-35,Unmarried,Victoria,$449.91 
+P010,Toaster,Appliances,11,$29.99 ,18-25,Married,Western Australia,$329.89 
+P011,Desk Lamp,Furniture,13,$59.99 ,26-35,Unmarried,South Australia,$779.87 
+P012,Office Chair,Furniture,7,$149.99 ,36-45,Married,Tasmania,"$1,049.93 "
+P013,Coffee Table,Furniture,5,$199.99 ,46-55,Unmarried,Queensland,$999.95 
+P014,Sofa,Furniture,6,$799.99 ,18-25,Married,New South Wales,"$4,799.94 "
+P015,Bookshelf,Furniture,12,$129.99 ,26-35,Unmarried,Victoria,"$1,559.88 "
+P016,Running Shoes,Apparel,17,$89.99 ,36-45,Married,Western Australia,"$1,529.83 "
+P017,Jacket,Apparel,11,$129.99 ,26-35,Unmarried,South Australia,"$1,429.89 "
+P018,Jeans,Apparel,14,$59.99 ,18-25,Married,Tasmania,$839.86 
+P019,Shirt,Apparel,21,$29.99 ,26-35,Unmarried,Queensland,$629.79 
+P020,Hat,Apparel,33,$19.99 ,18-25,Married,New South Wales,$659.67 
+P021,Sunglasses,Accessories,12,$79.99 ,26-35,Unmarried,Victoria,$959.88 
+P022,Watch,Accessories,9,$199.99 ,36-45,Married,Western Australia,"$1,799.91 "
+P023,Wallet,Accessories,12,$49.99 ,46-55,Unmarried,South Australia,$599.88 
+P024,Bracelet,Accessories,11,$69.99 ,18-25,Married,Tasmania,$769.89 
+P025,Necklace,Accessories,8,$149.99 ,26-35,Unmarried,Queensland,"$1,199.92 "
+P026,Yoga Mat,Outdoor,14,$39.99 ,36-45,Married,New South Wales,$559.86 
+P027,Tent,Outdoor,6,$299.99 ,46-55,Unmarried,Victoria,"$1,799.94 "
+P028,Backpack,Outdoor,11,$89.99 ,18-25,Married,Western Australia,$989.89 
+P029,Cooler,Outdoor,10,$49.99 ,26-35,Unmarried,South Australia,$499.90 
+P030,Camping Chair,Outdoor,18,$79.99 ,36-45,Married,Tasmania,"$1,439.82 "
+P031,Monitor,Electronics,14,$179.99 ,46-55,Unmarried,Queensland,"$2,519.86 "
+P032,Printer,Electronics,9,$129.99 ,18-25,Married,New South Wales,"$1,169.91 "
+P033,Router,Electronics,22,$89.99 ,26-35,Unmarried,Victoria,"$1,979.78 "
+P034,Keyboard,Electronics,28,$49.99 ,36-45,Married,Western Australia,"$1,399.72 "
+P035,Mouse,Electronics,25,$29.99 ,46-55,Unmarried,South Australia,$749.75 
+P036,Mixer,Appliances,30,$79.99 ,18-25,Married,Tasmania,"$2,399.70 "
+P037,Coffee Maker,Appliances,20,$99.99 ,26-35,Unmarried,Queensland,"$1,999.80 "
+P038,Toaster Oven,Appliances,18,$119.99 ,36-45,Married,New South Wales,"$2,159.82 "
+P039,Air Purifier,Appliances,14,$149.99 ,46-55,Unmarried,Victoria,"$2,099.86 "
+P040,Heater,Appliances,10,$159.99 ,18-25,Married,Western Australia,"$1,599.90 "
+P041,TV Stand,Furniture,25,$129.99 ,26-35,Unmarried,South Australia,"$3,249.75 "
+P042,Bed Frame,Furniture,8,$399.99 ,36-45,Married,Tasmania,"$3,199.92 "
+P043,Dining Table,Furniture,6,$499.99 ,46-55,Unmarried,Queensland,"$2,999.94 "
+P044,Bookshelf,Furniture,15,$79.99 ,18-25,Married,New South Wales,"$1,199.85 "
+P045,Armchair,Furniture,10,$199.99 ,26-35,Unmarried,Victoria,"$1,999.90 "
+P046,Track Pants,Apparel,11,$49.99 ,36-45,Married,Western Australia,$549.89 
+P047,T-Shirt,Apparel,22,$19.99 ,46-55,Unmarried,South Australia,$439.78 
+P048,Scarf,Apparel,20,$29.99 ,18-25,Married,Tasmania,$599.80 
+P049,Gloves,Apparel,15,$39.99 ,26-35,Unmarried,Queensland,$599.85 
+P050,Sweater,Apparel,25,$59.99 ,36-45,Married,New South Wales,"$1,499.75 "
+P051,Beach Bag,Accessories,22,$49.99 ,46-55,Unmarried,Victoria,"$1,099.78 "
+P052,Phone Case,Accessories,5,$19.99 ,18-25,Married,Western Australia,$99.95 
+P053,Keychain,Accessories,12,$9.99 ,26-35,Unmarried,South Australia,$119.88 
+P054,Cufflinks,Accessories,6,$129.99 ,36-45,Married,Tasmania,$779.94 
+P055,Ring,Accessories,9,$199.99 ,46-55,Unmarried,Queensland,"$1,799.91 "
+P056,Fishing Rod,Outdoor,11,$89.99 ,18-25,Married,New South Wales,$989.89 
+P057,Outdoor Grill,Outdoor,8,$499.99 ,26-35,Unmarried,Victoria,"$3,999.92 "
+P058,Cooler Bag,Outdoor,12,$29.99 ,36-45,Married,Western Australia,$359.88 
+P059,Portable Speaker,Outdoor,8,$79.99 ,46-55,Unmarried,South Australia,$639.92 
+P060,Hiking Boots,Outdoor,12,$139.99 ,18-25,Married,Tasmania,"$1,679.88 "
+P061,Air Conditioner,Appliances,5,$399.99 ,26-35,Unmarried,Queensland,"$1,999.95 "
+P062,Microwave,Appliances,7,$119.99 ,36-45,Married,New South Wales,$839.93 
+P063,Slow Cooker,Appliances,15,$89.99 ,46-55,Unmarried,Victoria,"$1,349.85 "
+P064,Washer Dryer,Appliances,4,$799.99 ,18-25,Married,Western Australia,"$3,199.96 "
+P065,Compact Fridge,Appliances,6,$299.99 ,36-45,Unmarried,South Australia,"$1,799.94 "
+P066,Recliner,Furniture,10,$299.99 ,26-35,Married,Tasmania,"$2,999.90 "
+P067,Bedside Table,Furniture,12,$79.99 ,36-45,Unmarried,Queensland,$959.88 
+P068,Entertainment Center,Furniture,8,$499.99 ,46-55,Married,New South Wales,"$3,999.92 "
+P069,Storage Cabinet,Furniture,20,$149.99 ,36-45,Unmarried,Victoria,"$2,999.80 "
+P070,Armchair,Furniture,18,$199.99 ,18-25,Married,Western Australia,"$3,599.82 "
+P071,Sports Bra,Apparel,22,$39.99 ,26-35,Unmarried,South Australia,$879.78 
+P072,Shorts,Apparel,20,$29.99 ,18-25,Married,Tasmania,$599.80 
+P073,Cap,Apparel,19,$19.99 ,26-35,Married,Queensland,$379.81 
+P074,Jumper,Apparel,11,$49.99 ,36-45,Married,New South Wales,$549.89 
+P075,Overcoat,Apparel,11,$129.99 ,46-55,Married,Victoria,"$1,429.89 "
+P076,Travel Bag,Accessories,16,$59.99 ,26-35,Married,Western Australia,$959.84 
+P077,Notebook,Accessories,9,$29.99 ,18-25,Married,South Australia,$269.91 
+P078,Earrings,Accessories,18,$79.99 ,26-35,Unmarried,Tasmania,"$1,439.82 "
+P079,Necklace,Accessories,11,$99.99 ,36-45,Married,Queensland,"$1,099.89 "
+P080,Bracelet,Accessories,14,$49.99 ,46-55,Unmarried,New South Wales,$699.86 
+P081,Hiking Poles,Outdoor,21,$49.99 ,45-51,Married,Victoria,"$1,049.79 "
+P082,Travel Mug,Outdoor,18,$19.99 ,45-55,Married,Western Australia,$359.82 
